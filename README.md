@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,express,firebase,git,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,redux,sass,tailwind,ts&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,angular,bootstrap,css,firebase,git,html,java,linux,mysql,postman,py,redux,sass,ts&perline=10" />
   </a>
 </p>
 
