@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankit_gupta_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_gupta_6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-gupta-77b924251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-gupta-77b924251" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankits-projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankits-projects" height="30" width="40" /></a>
+<a href="https://twitter.com/ankit_gupta_6" target="blank" title="X.com" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit_gupta_6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-gupta-77b924251" target="blank" title="LinkedIn" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-gupta-77b924251" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankits-projects" target="blank" title="LeetCode" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankits-projects" height="30" width="40" /></a>
 
-  <a href="https://ankits-projects.github.io/MyFinalPortfolio/" target="blank">
+  <a href="https://ankits-projects.github.io/MyFinalPortfolio/" target="blank" title="Portfolio" >
   <img align="center" src="https://api.iconify.design/fa-solid:laptop-code.svg?color=%2361DAFB" alt="Portfolio" height="30" width="40" />
 </a>
 </p>
